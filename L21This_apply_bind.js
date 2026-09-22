@@ -164,5 +164,11 @@
 
 // user1.greet();
 
+// const user ={
+//     greet:()=>console.log(this)
+// }
 
+// user.greet();
+
+// object {} is an context not scope so => point out side the object i.e empty  
 
