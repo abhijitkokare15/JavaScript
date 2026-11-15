@@ -4,7 +4,7 @@ This repository contains JavaScript code, experiments, and front-end examples.
 
 ## Overview
 
-The project currently includes JavaScript and HTML files, making it suitable for learning, prototyping, and small web-based exercises.
+I’m learning JavaScript from Coder Army and using this repository to share my practice, experiments, and front-end examples as I progress.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ node filename.js
 
 - Main language: JavaScript
 - Supporting language: HTML
-- Good for learning, experimentation, and practice projects
+- A place for my learning, experimentation, and practice projects
 
 ## License
 
